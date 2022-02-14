@@ -1,0 +1,57 @@
+li {
+    display: inline-block;
+    width: 150px;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+    margin: 0px ;
+    padding: 0 15px 0 0 ;
+  }
+
+#menu  {
+    margin-top:40px;
+    }
+    
+    #menu ul {
+        list-style-type: none;
+    }
+    #menu ul li
+    {
+        display: inline;
+    }
+    #menu ul li a {
+    
+    text-decoration:none;    
+        color:#666;
+        
+    }
+    
+    #first
+    {
+        border-bottom:2px solid rgb(211, 211, 253);
+        
+    }
+    
+    #second
+    {
+        border-bottom:2px solid rgb(203, 247, 186);
+    }
+    
+    #third
+    {
+        border-bottom:2px solid rgb(250, 248, 165);
+    }
+    
+    #fourth
+    {
+        border-bottom:2px solid rgb(211, 164, 250);
+    }
+    
+    #fifth
+    {
+        border-bottom:2px solid rgb(253, 193, 235);
+    }
+
+    #sixth
+    {
+        border-bottom:2px solid rgb(164, 216, 250);
+    }
